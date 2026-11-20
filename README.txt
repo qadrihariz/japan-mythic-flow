@@ -1,5 +1,5 @@
-Japan Mythic Flow — separate website
+Japan Mythic Flow is a standalone website rebuilt from the FINAL screen of the original Figma prototype.
 
-This standalone GitHub Pages site opens the original interactive Figma prototype at its FINAL screen. The prototype remains the source of truth, so the original click and hover reactions, overlays, and transitions remain intact. Edit the original Figma file to update its design and behavior.
+The page includes interactive product details, size selection, quantity controls, a shopping bag preview, campaign imagery and a signup offer preview. Checkout and email signup are demos only; no payment or email service is connected.
 
-If automatic redirection is blocked, select “Open the experience.” The destination uses the exact prototype flow starting at node 77:8 on page 1:3.
+Edit the site by updating index.html and the image files in assets/ in this repository. GitHub Pages publishes changes automatically.
